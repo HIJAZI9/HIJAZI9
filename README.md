@@ -11,8 +11,7 @@ A passionate Software Developer from Palestine
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+  
 
 - 🌱 I’m currently learning JAVASCRIPT and PHP  
   
@@ -78,6 +77,4 @@ A passionate Software Developer from Palestine
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
