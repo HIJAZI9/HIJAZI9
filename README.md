@@ -11,7 +11,7 @@ A passionate Software Developer from Palestine
 <br/>  
 
 
-
+-  💻 I study Computer Science at Hochschule für Wirtschaft und Technik in Dresden.
 
 - 🌱 I’m currently learning JAVASCRIPT and PHP  
   
