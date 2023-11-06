@@ -13,13 +13,12 @@ A passionate Software Developer from Palestine
 
 -  💻 I study Computer Science at Hochschule für Wirtschaft und Technik in Dresden.
 
-- 🌱 I’m currently learning   Ruby on Rails
   
 
 -  📫 How to reach me mohammedhijazi727@gmail.com  
   
 
-- 💬 Ask me about Java  
+- 💬 Ask me about   Ruby on Rails
 
 
 </td><td valign="top" width="50%">
